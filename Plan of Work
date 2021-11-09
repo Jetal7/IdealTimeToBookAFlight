@@ -1,0 +1,8 @@
+To accomplish this study, it’s divided into three part which are: 
+data collection or preparation, 
+prediction model, 
+design and implementation of ticket price prediction. 
+
+The first part of this work is data collection and preparation. 
+
+The data are available with various feature like departure time, arrival time, destination airport, source airport, no. of day, date and etc. For this project I need the data with flight price which are not perfectly available. For that I have to use scrapping tool on online travel portal like yatra.com, makemytrip.com and scratch the data which are needed for my phase one work. After that going through the various research paper to find out best suitable prediction algorithm with highest prediction accuracy with best positive result and later on working with the implemention of the model for user interaction where the prediction model can apply.
